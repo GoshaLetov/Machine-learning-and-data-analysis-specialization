@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#iPython notebooks saves
+*..ipynb_checkpoints
+
 # Distribution / packaging
 .Python
 build/
