@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #iPython notebooks saves
-*..ipynb_checkpoints
+*/.ipynb_checkpoints/*.ipynb
 
 # Distribution / packaging
 .Python
